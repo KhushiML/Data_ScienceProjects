@@ -79,6 +79,10 @@ I will create a model for credit card fraud detection using machine learning pre
 The data set I am going to use contains data about credit card transactions that occurred during a period of two days, with 492 frauds out of 284,807 transactions.
 [https://drive.google.com/file/d/1pfmbAILmVXhCpivMsOQ_-nNhjm_ArvRE/view?usp=sharing]
 
+# Project 11 : Cryptocurrency Price Prediction
+## Description :
+
+
 
 # Project 10 : Linear Regression
 
