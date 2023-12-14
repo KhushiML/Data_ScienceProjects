@@ -72,34 +72,62 @@ Fake news is one of the biggest problems because it leads to a lot of misinforma
 The dataset I am using here for the fake news detection task has data about the news title, news content, and a column known as label that shows whether the news is fake or real.
 [https://www.kaggle.com/hassanamin/textdb3/download]
 
-# Project 11: Iris Flower Classification, CodSoft Internship
+# Project 11 : Iris Flower Classification, CodSoft Internship
 ## Description :
 The Iris flower dataset consists of three species: setosa, versicolor, and virginica. These species can be distinguished based on their measurements. The aim is to classify iris flowers among three species (Setosa, Versicolor, or Virginica) from the sepals' and petals' length and width measurements. 
 I have used **Support Vector Machine**, **K Nearest Neighbors Classier** and **logistic Regression** for building Iris flower classification model.
 ## Dataset:
 [https://www.kaggle.com/datasets/arshid/iris-flower-dataset]
 
-# Project 11: Movie Rating Prediction with Python, CodSoft Internship.
+# Project 12 : Movie Rating Prediction with Python, CodSoft Internship.
 ## Description : 
 The goal is to analyze historical movie data and develop a model that accurately estimates the rating given to a movie by users or critics.
 I have used **Linear Regression** and **Random Forest Regression** for building movie rating prediction model.
 ## Dataset:
 [https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies]
 
-# Project 12: Sales Prediction Using Python, CodSoft Internship.
+# Project 13 : Sales Prediction Using Python, CodSoft Internship.
 ## Description :
 Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection.
 I have used **Standard Scaler** and **Sequential Artificial Neural Network** for building Sales Prediction Model.
 ## Dataset:
 [https://www.kaggle.com/datasets/yashpaloswal/ann-car-sales-price-prediction]
 
-# Project 13: Titanic Survival Prediction, CodSoft Internship.
+# Project 14: Titanic Survival Prediction, CodSoft Internship.
 ## Description :
 The aim is to use the Titanic dataset and build a model that predicts whether a passenger on the Titanic survived or not. 
 I have used **Random Forest Classifier(Entropy)**, **Naive Bayes Gaussian Algorithm** and **Logistic Regression** here.
 ## Dataset:
 The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived.
 [https://www.kaggle.com/datasets/brendan45774/test-file]
+
+# Project 15: Online Payment Fraud Detection
+## Description :
+Aim was to identify online payment fraud with machine learning, we need to train a machine learning model for classifying fraudulent and non-fraudulent payments. 
+I have used **Decision Tree Classifier** to classify fraud and non-fraud transactions.
+## Dataset:
+For this task, I collected a dataset from Kaggle, which contains historical information about fraudulent transactions which can be used to detect fraud in online payments.
+[https://www.kaggle.com/ealaxi/paysim1/download]
+
+# Project 16: Real-Time Sentiment Analysis.
+## Description :
+Sentiment Analysis is an application of natural language processing that is used to understand people’s opinions. Today, many companies use real-time sentiment analysis by asking users about their service.
+The main purpose of sentiment analysis is to analyze the opinions of users of a particular product or service, which helps customers understand the quality of the product. 
+So, I will be using the SentimentIntensityAnalyzer() class provided by the NLTK library in Python.
+## Dataset:
+To analyze feelings in real-time, we need to request input from the user and then analyze user feelings given by him/her as input. So for this real-time sentiment analysis task using Python, I will be using the NLTK library in Python which is a very useful tool for all the tasks of natural language processing.
+
+# Project 17: Retail Price Optimization Using Python.
+## Description :
+Retail price optimization involves determining the optimal selling price for products or services to maximize revenue and profit. 
+Here, I have used **Decision Tree Regressor** Machine Learning model for the task of Retail Price Optimization.
+## Dataset:
+[https://statso.io/retail-price-optimization-case-study/]
+
+# Project 18:
+
+
+
 
 
 
