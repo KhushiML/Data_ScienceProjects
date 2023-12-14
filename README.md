@@ -1,92 +1,87 @@
 # Project 1: Anomaly Detection in Transactions
-
 ## Description:
 Anomaly detection in transactions means identifying unusual or unexpected patterns within transactions or related activities. These patterns, known as anomalies or outliers, deviate significantly from the expected norm and could indicate irregular or fraudulent behaviour.
-
 Here we are training an anomaly detection model using the Isolation Forest algorithm. First, we selected the relevant features for detection, namely Transaction_Amount, Average_Transaction_Amount, and Frequency_of_Transactions. We split the dataset into features (X) and the target variable (y), where X contains the selected features and y contains the binary labels indicating whether an instance is an anomaly or not. Then, we further split the data into training and testing sets using an 80-20 split ratio. Next, we created an Isolation Forest model with a specified contamination parameter of 0.02 (indicating the expected ratio of anomalies) and a random seed for reproducibility.
-
 ## Dataset :
 [https://statso.io/anomaly-detection-case-study/]
 
 # Project 2: Classification With Neural Network
-
 ## Description :
 Here, I will be using the famous MNIST fashion dataset, which contains 70,000 clothing fashion images. Here our task is to train an image classification model with neural networks.
-
+Here, I have used neural networks to train an image classification model.
 ## Dataset
 Here, I will be using the famous MNIST fashion dataset, which contains 70,000 clothing fashion images.
 [https://www.kaggle.com/datasets/zalando-research/fashionmnist]
 
-## Model Building
-Here, I have used neural networks to train an image classification model.
-
-## Project 3: Language Detection with Machine Learning
+# Project 3: Language Detection with Machine Learning
+## Description :
 Language detection is a natural language processing task where we need to identify the language of a text or document.
-
-### Dataset
+As this is a problem of multiclass classification, so I have used the Multinomial Naïve Bayes algorithm to train the language detection model as this algorithm always performs very well on the problems based on multiclass classification.
+## Dataset
 The dataset that I am using is collected from Kaggle, which contains data about 22 popular languages and contains 1000 sentences in each of the languages.
 
-### Model Building
-As this is a problem of multiclass classification, so I have used the Multinomial Naïve Bayes algorithm to train the language detection model as this algorithm always performs very well on the problems based on multiclass classification.
-
-## Project 4: Credit Card Clustering with Machine Learning
+# Project 4: Credit Card Clustering with Machine Learning
+## Description :
 Credit card clustering is the task of grouping credit card holders based on their buying habits, credit limits, and many other financial factors. It is also known as credit card segmentation. Such clustering analysis helps businesses find their potential customers and many more marketing strategies. 
-
-### Dataset
+Here, I am using K-means Clustering for grouping of credit card customers . The groups formed range from 0 to 4.
+## Dataset
 The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
 [https://www.kaggle.com/datasets/arjunbhasin2013/ccdata]
 
-### Model Building
-Here, I am using K-means Clustering for grouping of credit card customers . The groups formed range from 0 to 4.
-
-## Project 5 :  Weather Forecasting using Python
+# Project 5 :  Weather Forecasting using Python
+## Description :
 weather forecasting is an application of Time Series Forecasting where we use time-series data and algorithms to make forecasts for a given time.With the use of weather data and algorithms, it is possible to predict weather conditions for the next n number of days.
-
-### Dataset
+I have used Facebook prophet model for this task. The Facebook prophet model is one of the best techniques for time series forecasting. 
+## Dataset
 This dataset provides data from 1st January 2013 to 24th April 2017 in the city of Delhi, India. The 4 parameters here are meantemp, humidity, wind_speed, meanpressure.
 [https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data]
 
-### Model Building
-I have used Facebook prophet model for this task. The Facebook prophet model is one of the best techniques for time series forecasting. 
-
-# Project 6 : To Forecast hourly bike rental Demand
-
+# Project 6 : To Forecast hourly bike rental Demand, Internshala Trainee.
 ## Description:
 Bike sharing systems are a means of renting bicycles where the process of obtaining membership, rental, and bike return is automated via a network of kiosk locations throughout a city. Using these systems, people are able to rent a bike from one location and return it to a different place on an as-needed basis. Currently, there are over 500 bike-sharing programs
 around the world.The data generated by these systems makes them attractive for researchers because the duration of travel, departure location, arrival location, and time elapsed is explicitly recorded. Bike sharing systems therefore function as a sensor network, which can be used for studying mobility in a city.
-
-## Problem Statement
 In this project, Our task is to combine historical usage patterns with weather data in order to forecast hourly bike rental demand.
 
-# Project 8 : To predict if the client will subscribe to term deposit.
-
+# Project 7 : To predict if the client will subscribe to term deposit, Internshala Trainee.
 ## Description:
 Your client is a retail banking institution. Term deposits are a major source of income for a bank. A term deposit is a cash investment held at a financial institution. Your money is invested for an agreed rate of interest over a fixed amount of
 time, or term.
-
 The bank has various outreach plans to sell term deposits to their customers such as email marketing, advertisements, telephonic marketing and digital marketing.
-
 Telephonic marketing campaigns still remain one of the most effective way to reach out to people. However, they require huge investment as large call centers are hired to actually execute these campaigns. Hence, it is crucial to identify the customers most likely to convert beforehand so that they can be specifically targeted via call.
-
 You are provided with the client data such as : age of the client, their job type, their marital status, etc. Along with the client data, you are also provided with the information of the call such as the duration of the call, day and month of the call, etc. Given this information, our task is to predict if the client will subscribe to term deposit.
 
-# Project 9: Credit Card Fraud Detection
-
+# Project 8: Credit Card Fraud Detection
 ## Description:
-I will create a model for credit card fraud detection using machine learning predictive model Autoencoder and python. Using autoencoders, we train the database only to learn the representation of the non-fraudulent transactions.
-
+I will create a model for credit card fraud detection using machine learning predictive model **Autoencoder** and python. Using autoencoders, we train the database only to learn the representation of the non-fraudulent transactions.
 ## Dataset:
 The data set I am going to use contains data about credit card transactions that occurred during a period of two days, with 492 frauds out of 284,807 transactions.
 [https://drive.google.com/file/d/1pfmbAILmVXhCpivMsOQ_-nNhjm_ArvRE/view?usp=sharing]
 
-# Project 11 : Cryptocurrency Price Prediction
+# Project 9 : Cryptocurrency Price Prediction
+## Description : 
+Buying and selling result in a change in the price of any cryptocurrency, but buying and selling trends depend on many factors. Using machine learning for cryptocurrency price prediction can only work in situations where prices change due to historical prices that people see before buying and selling their cryptocurrency. 
+Predicting the future prices of cryptocurrency is based on the problem of Time series analysis. The AutoTS library in Python is one of the best libraries for time series analysis. So here I will be using the AutoTS library to predict the bitcoin prices for the next 30 days
+## Dataset:
+For this task, I will collect the latest Bitcoin prices data from **[Yahoo Finance]**, using the **[yfinance API]**. This will help you collect the latest data each time you run this code.So the dataset contains 731 rows, where the first row contains the names of each column. 
+
+# Project 10: Fake News Detection
 ## Description :
+Fake news is one of the biggest problems because it leads to a lot of misinformation in a particular region. I’ll use the **Multinomial Naive Bayes** algorithm to train the fake news detection model.
+## Dataset:
+The dataset I am using here for the fake news detection task has data about the news title, news content, and a column known as label that shows whether the news is fake or real.
+[https://www.kaggle.com/hassanamin/textdb3/download]
+
+# Project 11: Iris Flower Classification
+## Description :
+
+## Dataset:
+
 
 
 
 # Project 10 : Linear Regression
 
-## Description
+## Description :
 Let’s say you are a bakery owner. You want to predict how much money you will make in a day based on the number of cupcakes you sell.
 
 # Project 11 : Polynomial Regression
