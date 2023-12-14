@@ -1,17 +1,19 @@
-# Regression_Projects
-
 # Project 1: Anomaly Detection in Transactions
+
 ## Description:
 Anomaly detection in transactions means identifying unusual or unexpected patterns within transactions or related activities. These patterns, known as anomalies or outliers, deviate significantly from the expected norm and could indicate irregular or fraudulent behaviour.
+
 Here we are training an anomaly detection model using the Isolation Forest algorithm. First, we selected the relevant features for detection, namely Transaction_Amount, Average_Transaction_Amount, and Frequency_of_Transactions. We split the dataset into features (X) and the target variable (y), where X contains the selected features and y contains the binary labels indicating whether an instance is an anomaly or not. Then, we further split the data into training and testing sets using an 80-20 split ratio. Next, we created an Isolation Forest model with a specified contamination parameter of 0.02 (indicating the expected ratio of anomalies) and a random seed for reproducibility.
+
 ## Dataset :
-https://statso.io/anomaly-detection-case-study/
+[https://statso.io/anomaly-detection-case-study/]
 
 # Project 2: Classification With Neural Network
+
 ## Description :
 Here, I will be using the famous MNIST fashion dataset, which contains 70,000 clothing fashion images. Here our task is to train an image classification model with neural networks.
-## Dataset
 
+## Dataset
 Here, I will be using the famous MNIST fashion dataset, which contains 70,000 clothing fashion images.
 [https://www.kaggle.com/datasets/zalando-research/fashionmnist]
 
@@ -19,7 +21,6 @@ Here, I will be using the famous MNIST fashion dataset, which contains 70,000 cl
 Here, I have used neural networks to train an image classification model.
 
 ## Project 3: Language Detection with Machine Learning
-
 Language detection is a natural language processing task where we need to identify the language of a text or document.
 
 ### Dataset
@@ -69,12 +70,22 @@ Telephonic marketing campaigns still remain one of the most effective way to rea
 
 You are provided with the client data such as : age of the client, their job type, their marital status, etc. Along with the client data, you are also provided with the information of the call such as the duration of the call, day and month of the call, etc. Given this information, our task is to predict if the client will subscribe to term deposit.
 
-# Project 9 : Linear Regression
+# Project 9: Credit Card Fraud Detection
+
+## Description:
+I will create a model for credit card fraud detection using machine learning predictive model Autoencoder and python. Using autoencoders, we train the database only to learn the representation of the non-fraudulent transactions.
+
+## Dataset:
+The data set I am going to use contains data about credit card transactions that occurred during a period of two days, with 492 frauds out of 284,807 transactions.
+[https://drive.google.com/file/d/1pfmbAILmVXhCpivMsOQ_-nNhjm_ArvRE/view?usp=sharing]
+
+
+# Project 10 : Linear Regression
 
 ## Description
 Let’s say you are a bakery owner. You want to predict how much money you will make in a day based on the number of cupcakes you sell.
 
-# Project 10 : Polynomial Regression
+# Project 11 : Polynomial Regression
 
 ## Description
 Suppose you work as a Data Science professional in a company that sells a certain product. You have historical sales data from past years and want to predict next year’s sales.
