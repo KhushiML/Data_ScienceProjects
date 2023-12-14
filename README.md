@@ -113,9 +113,9 @@ For this task, I collected a dataset from Kaggle, which contains historical info
 ## Description :
 Sentiment Analysis is an application of natural language processing that is used to understand people’s opinions. Today, many companies use real-time sentiment analysis by asking users about their service.
 The main purpose of sentiment analysis is to analyze the opinions of users of a particular product or service, which helps customers understand the quality of the product. 
-So, I will be using the SentimentIntensityAnalyzer() class provided by the NLTK library in Python.
+So, I will be using the **SentimentIntensityAnalyzer()** class provided by the NLTK library in Python.
 ## Dataset:
-To analyze feelings in real-time, we need to request input from the user and then analyze user feelings given by him/her as input. So for this real-time sentiment analysis task using Python, I will be using the NLTK library in Python which is a very useful tool for all the tasks of natural language processing.
+To analyze feelings in real-time, we need to request input from the user and then analyze user feelings given by him/her as input. So for this real-time sentiment analysis task using Python, I will be using the **NLTK library** in Python which is a very useful tool for all the tasks of natural language processing.
 
 # Project 17: Retail Price Optimization Using Python.
 ## Description :
@@ -124,19 +124,17 @@ Here, I have used **Decision Tree Regressor** Machine Learning model for the tas
 ## Dataset:
 [https://statso.io/retail-price-optimization-case-study/]
 
-# Project 18:
-
-
-
-
-
-
-# Project 10 : Linear Regression
-
+# Project 18: Salary Prediction Using Python.
 ## Description :
-Let’s say you are a bakery owner. You want to predict how much money you will make in a day based on the number of cupcakes you sell.
+For salary prediction, we need to find relationships in the data on how the salary is determined. I will train a regression model using **Linear Regression** to predict salary with Machine Learning.
+## Dataset:
+[https://statso.io/salary-prediction-case-study/]
 
-# Project 11 : Polynomial Regression
+# Project 19: Student Marks Prediction Model.
+## Description :
+Student marks prediction is a popular data science case study based on the problem of regression. I built **Linear Regression** machine learning model for prediction of student marks.
+## Dataset:
+The dataset I am using for the student marks prediction task is downloaded from Kaggle.
+[https://www.kaggle.com/datasets/yasserh/student-marks-dataset]
 
-## Description
-Suppose you work as a Data Science professional in a company that sells a certain product. You have historical sales data from past years and want to predict next year’s sales.
+
