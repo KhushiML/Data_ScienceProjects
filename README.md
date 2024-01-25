@@ -160,3 +160,10 @@ I had the client data such as : age of the client, their job type, their marital
 - Text summarization is the process of distilling the most important information from a source text.
 - Used **spaCy** library here for natural language processing.
 
+# Project 20 : Next Word Precdiction Model.
+(https://github.com/KhushiML/Data_ScienceProjects/blob/main/Next%20Word%20Prediction%20Model%20.ipynb)
+## Description:
+-  built a **sequential neural network** (Accuracy = 95.88%) with specific layers such as **Embedding, LSTM and Dense**.
+  
+-  
+-  
