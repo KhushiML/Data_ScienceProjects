@@ -91,30 +91,27 @@ For this task, I have collectd the latest Bitcoin prices data from **[Yahoo Fina
 # Project 11: Fake News Detection
 ## Description :
 - Fake news is one of the biggest problems because it leads to a lot of misinformation in a particular region.
-- Used **Multinomial Naive Bayes** algorithm to train the fake news detection model.
+- Used **Multinomial Naive Bayes** (Accuracy = 80.79%) algorithm to train the fake news detection model.
 ## Dataset:
-The dataset I am using here for the fake news detection task has data about the news title, news content, and a column known as label that shows whether the news is fake or real.
+The dataset I am using here for the fake news detection task has data about the news title, news content and a column known as label that shows whether the news is fake or real.
 [https://www.kaggle.com/hassanamin/textdb3/download]
 
 # Project 12: Online Payment Fraud Detection
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Online%20Payment%20Fraud%20Detection.ipynb)
 ## Description :
-- Aim was to identify online payment fraud with machine learning, we need to train a machine learning model for classifying fraudulent and non-fraudulent payments. 
-- Used **Decision Tree Classifier** to classify fraud and non-fraud transactions.
+- Aim was to identify online payment fraud with machine learning for classifying fraudulent and non-fraudulent payments. 
+- Used **Decision Tree Classifier** (Accuracy = 99.97%) to classify fraud and non-fraud transactions.
 ## Dataset:
-For this task, I collected a dataset from Kaggle, which contains historical information about fraudulent transactions which can be used to detect fraud in online payments.
+For this task, I collected a dataset from Kaggle which contains historical information about fraudulent transactions which can be used to detect fraud in online payments.
 [https://www.kaggle.com/ealaxi/paysim1/download]
 
 # Project 13: Real-Time Sentiment Analysis.
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Real-Time%20Sentiment%20Analysis.ipynb)
 ## Description :
-- Sentiment Analysis is an application of natural language processing that is used to understand people’s opinions. Today, many companies use real-time sentiment analysis 
-  by asking users about their service.
-- The main purpose of sentiment analysis is to analyze the opinions of users of a particular product or service, which helps customers understand the quality of the 
-  product. 
-- So, I will be using the **SentimentIntensityAnalyzer()** class provided by the NLTK library in Python.
+- Sentiment Analysis is an application of natural language processing that is used to understand people’s opinions by asking users about their service.
+- Used **SentimentIntensityAnalyzer()** class provided by the NLTK library in Python.
 ## Dataset:
-To analyze feelings in real-time, we need to request input from the user and then analyze user feelings given by him/her as input. So for this real-time sentiment analysis task using Python, I will be using the **NLTK library** in Python which is a very useful tool for all the tasks of natural language processing.
+To analyze feelings in real-time, we need to request input from the user and then analyze user feelings given by him/her as input. For this real-time sentiment analysis task using Python, I used the **NLTK toolkit** in Python which is a very useful tool for all the tasks of natural language processing.
 
 # Project 14: Retail Price Optimization Using Python.
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Retail%20Price%20Optimization%20Using%20Python.ipynb)
