@@ -10,8 +10,10 @@
 # Project 2 : Iris Flower Classification, CodSoft Internship
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Iris%20Flower%20Classification.ipynb)
 ## Description :
-The Iris flower dataset consists of three species: setosa, versicolor, and virginica. These species can be distinguished based on their measurements. The aim is to classify iris flowers among three species (Setosa, Versicolor, or Virginica) from the sepals' and petals' length and width measurements. 
-I have used **Support Vector Machine**, **K Nearest Neighbors Classier** and **logistic Regression** for building Iris flower classification model.
+- The Iris flower dataset consists of three species: setosa, versicolor, and virginica. These species can be distinguished based on their measurements.
+- The aim is to classify iris flowers among three species (Setosa, Versicolor, or Virginica) from the sepals' and petals' length and width measurements. 
+- Used **Support Vector Machine** (Accuracy = 97.37%), **K Nearest Neighbors Classier** (Accuracy = 97.35%) and **logistic Regression** (Accuracy = 97.36%) for building 
+  Iris flower classification model.
 ## Dataset:
 [https://www.kaggle.com/datasets/arshid/iris-flower-dataset]
 
