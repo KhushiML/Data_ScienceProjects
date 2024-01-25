@@ -73,9 +73,8 @@ The sample Dataset summarizes the usage behavior of about 9000 active credit car
 # Project 9:  Weather Forecasting using Python
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Weather%20Forecasting%20.ipynb)
 ## Description :
-- weather forecasting is an application of **Time Series Forecasting** where we use time-series data and algorithms to make forecasts for a given time.With the use of 
-  weather data and algorithms, it is possible to predict weather conditions for the next n number of days.
-- Used **Facebook prophet model** for this task. The Facebook prophet model is one of the best techniques for time series forecasting. 
+- weather forecasting is an application of **Time Series Forecasting** where we use time-series data and algorithms to make forecasts for a given time.
+- Used **Facebook prophet model** for this task.  
 ## Dataset
 This dataset provides data from 1st January 2013 to 24th April 2017 in the city of Delhi, India. The 4 parameters here are meantemp, humidity, wind_speed, meanpressure.
 [https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data]
@@ -83,12 +82,11 @@ This dataset provides data from 1st January 2013 to 24th April 2017 in the city 
 # Project 10: Cryptocurrency Price Prediction
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Cryptocurrency%20Price%20Prediction.ipynb)
 ## Description : 
-- Buying and selling result in a change in the price of any cryptocurrency, but buying and selling trends depend on many factors. Using machine learning for cryptocurrency 
-  price prediction can only work in situations where prices change due to historical prices that people see before buying and selling their cryptocurrency. 
-- Predicting the future prices of cryptocurrency is based on the problem of Time series analysis. The AutoTS library in Python is one of the best libraries for time series 
-  analysis. So here I will be using the AutoTS library to predict the bitcoin prices for the next 30 days
+- Using machine learning for cryptocurrency price prediction can only work in situations where prices change due to historical prices that people see before buying and 
+  selling their cryptocurrency. 
+- Used AutoTS library  for time series analysis. 
 ## Dataset:
-For this task, I will collect the latest Bitcoin prices data from **[Yahoo Finance]**, using the **[yfinance API]**. This will help you collect the latest data each time you run this code.So the dataset contains 731 rows, where the first row contains the names of each column. 
+For this task, I have collectd the latest Bitcoin prices data from **[Yahoo Finance]** using the **[yfinance API]**. 
 
 # Project 11: Fake News Detection
 ## Description :
