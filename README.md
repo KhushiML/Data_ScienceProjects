@@ -164,6 +164,3 @@ I had the client data such as : age of the client, their job type, their marital
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Next%20Word%20Prediction%20Model%20.ipynb)
 ## Description:
 -  built a **sequential neural network** (Accuracy = 95.88%) with specific layers such as **Embedding, LSTM and Dense**.
-  
--  
--  
