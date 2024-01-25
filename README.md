@@ -1,8 +1,9 @@
 # Project 1 : Movie Rating Prediction with Python, CodSoft Internship.
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Movie%20Rating%20Prediction%20with%20Python%20Final.ipynb)
 ## Description : 
-The goal is to analyze historical movie data and develop a model that accurately estimates the rating given to a movie by users or critics.
-I have used **Linear Regression** and **Random Forest Regression** for building movie rating prediction model.
+-To analyze historical movie data and develop a model that accurately estimates the rating given to a movie by users or critics.
+-Used **Linear Regression** (Accuracy = 93.51%) and **Random Forest Regression**(Accuracy = 94.50%) for building movie rating prediction model.
+
 ## Dataset:
 [https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies]
 
