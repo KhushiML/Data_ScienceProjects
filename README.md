@@ -20,16 +20,17 @@
 # Project 3 : Sales Prediction Using Python, CodSoft Internship.
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Sales%20Prediction%20Using%20Python%20Final.ipynb)
 ## Description :
-Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection.
-I have used **Standard Scaler** and **Sequential Artificial Neural Network** for building Sales Prediction Model.
+- Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target 
+  audience segmentation, and advertising platform selection.
+- Used **Neural Network** (Accuracy = 99.67%, Mean Absolute Error = 0.0062) for building Sales Prediction Model.
 ## Dataset:
 [https://www.kaggle.com/datasets/yashpaloswal/ann-car-sales-price-prediction]
 
 # Project 4: Titanic Survival Prediction, CodSoft Internship.
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Titanic%20Survival%20Prediction_Final.ipynb)
 ## Description :
-The aim is to use the Titanic dataset and build a model that predicts whether a passenger on the Titanic survived or not. 
-I have used **Random Forest Classifier(Entropy)**, **Naive Bayes Gaussian Algorithm** and **Logistic Regression** here.
+- The aim is to use the Titanic dataset and build a model that predicts whether a passenger on the Titanic survived or not. 
+- Used **Random Forest Classifier(Entropy)** (Accuracy = 99.99%) , **Naive Bayes Gaussian Algorithm** (Accuracy = 99.99%) and **Logistic Regression** (Accuracy = 99.99%).
 ## Dataset:
 The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived.
 [https://www.kaggle.com/datasets/brendan45774/test-file]
