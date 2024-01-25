@@ -38,8 +38,7 @@ The dataset typically used for this project contains information about individua
 # Project 5: Anomaly Detection in Transactions
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Anomaly%20Detection%20in%20Transactions.ipynb)
 ## Description:
-- Anomaly detection in transactions means identifying unusual or unexpected patterns within transactions or related activities. These patterns, known as anomalies or 
-  outliers, deviate significantly from the expected norm and could indicate irregular or fraudulent behaviour.
+- Anomaly detection in transactions means identifying unusual or unexpected patterns within transactions or related activities. 
 - Used **Isolation Forest model** (Accuracy = 99.99%) for building anomaly detection model.
 ## Dataset :
 [https://statso.io/anomaly-detection-case-study/]
@@ -58,16 +57,14 @@ Here, I will be using the famous MNIST fashion dataset, which contains 70,000 cl
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Language%20Detection%20Model.ipynb)
 ## Description :
 - Language detection is a natural language processing task where we need to identify the language of a text or document.
-- Used the **Multinomial Naïve Bayes** algorithm to train the language detection model as this algorithm always performs very well on the problems based on multiclass 
-  classification.
+- Used **Multinomial Naïve Bayes** (Accuracy = 95.31%) algorithm.
 ## Dataset
 The dataset that I am using is collected from Kaggle, which contains data about 22 popular languages and contains 1000 sentences in each of the languages.
 
 # Project 8: Credit Card Clustering with Machine Learning
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Credit%20Card%20Clustering%20with%20Machine%20Learning.ipynb)
 ## Description :
-- Credit card clustering is the task of grouping credit card holders based on their buying habits, credit limits, and many other financial factors. It is also known as 
-  credit card segmentation. Such clustering analysis helps businesses find their potential customers and many more marketing strategies. 
+- Credit card clustering is the task of grouping credit card holders based on their buying habits, credit limits, and many other financial factors. 
 - Used **K-means Clustering** for grouping of credit card customers . The groups formed range from 0 to 4.
 ## Dataset
 The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
