@@ -89,6 +89,7 @@ This dataset provides data from 1st January 2013 to 24th April 2017 in the city 
 For this task, I have collectd the latest Bitcoin prices data from **[Yahoo Finance]** using the **[yfinance API]**. 
 
 # Project 11: Fake News Detection
+(https://github.com/KhushiML/Data_ScienceProjects/blob/main/Fake%20News%20Detection.ipynb)
 ## Description :
 - Fake news is one of the biggest problems because it leads to a lot of misinformation in a particular region.
 - Used **Multinomial Naive Bayes** (Accuracy = 80.79%) algorithm to train the fake news detection model.
