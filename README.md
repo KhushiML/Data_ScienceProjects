@@ -161,7 +161,13 @@ I had the client data such as : age of the client, their job type, their marital
 - Text summarization is the process of distilling the most important information from a source text.
 - Used **spaCy** library here for natural language processing.
 
-# Project 20 : Next Word Precdiction Model.
+# Project 20 : Next Word Prediction Model
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Next%20Word%20Prediction%20Model%20.ipynb)
 ## Description:
 -  built a **sequential neural network** (Accuracy = 95.88%) with specific layers such as **Embedding, LSTM and Dense**.
+
+# Project 21: OCR of Handwritten digits
+(https://github.com/KhushiML/Data_ScienceProjects/blob/main/OCR%20of%20Handwritten%20digits.ipynb)
+## Description:
+- Optical Character Recognition is a computer vision technique used to identify the different types of handwritten digits.
+- Used **OpenCV and KNN algorithm** (Accuracy = 91.64%).
