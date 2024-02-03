@@ -171,3 +171,8 @@ I had the client data such as : age of the client, their job type, their marital
 ## Description:
 - Optical Character Recognition is a computer vision technique used to identify the different types of handwritten digits.
 - Used **OpenCV and KNN algorithm** (Accuracy = 91.64%).
+
+# Project 22 : IPL Score Prediction Using Deep Learning
+(https://github.com/KhushiML/Data_ScienceProjects/blob/main/IPL%20Score%20Prediction%20Using%20Machine%20Learning.ipynb)
+## Description:
+- Built a sequential neural network **(Accuracy = 58.76%)**.
