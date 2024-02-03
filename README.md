@@ -177,7 +177,7 @@ I had the client data such as : age of the client, their job type, their marital
 ## Description:
 - Built a sequential neural network **(Accuracy = 58.76%)**.
 
-# Project 22 : Dogecoin Price Prediction with SARIMAX
+# Project 23 : Dogecoin Price Prediction with SARIMAX
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Dogecoin%20Price%20Prediction%20with%20SARIMAX.ipynb)
 ## Description:
 - Dogecoin is a cryptocurrency..
