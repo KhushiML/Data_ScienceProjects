@@ -176,3 +176,11 @@ I had the client data such as : age of the client, their job type, their marital
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/IPL%20Score%20Prediction%20Using%20Machine%20Learning.ipynb)
 ## Description:
 - Built a sequential neural network **(Accuracy = 58.76%)**.
+
+# Project 22 : Dogecoin Price Prediction with SARIMAX
+(https://github.com/KhushiML/Data_ScienceProjects/blob/main/Dogecoin%20Price%20Prediction%20with%20SARIMAX.ipynb)
+## Description:
+- Dogecoin is a cryptocurrency..
+- To predict the pattern or forecast the price of the coin in the upcoming days.
+- Used **SARIMAX** model for Time Series Analysis.
+
