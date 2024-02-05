@@ -62,10 +62,10 @@ Here, I will be using the famous MNIST fashion dataset, which contains 70,000 cl
 The dataset that I am using is collected from Kaggle, which contains data about 22 popular languages and contains 1000 sentences in each of the languages.
 
 # Project 8: Credit Card Clustering with Machine Learning
-(https://github.com/KhushiML/Data_ScienceProjects/blob/main/Credit%20Card%20Clustering%20with%20Machine%20Learning.ipynb)
+(https://github.com/KhushiML/Data_ScienceProjects/blob/main/Credit%20Card%20Customer%20Segmentation.ipynb)
 ## Description :
 - Credit card clustering is the task of grouping credit card holders based on their buying habits, credit limits, and many other financial factors. 
-- Used **K-means Clustering** for grouping of credit card customers . The groups formed range from 0 to 4.
+- Used **K-means Clustering** for grouping of credit card customers . The groups formed range from 0 to 2.
 ## Dataset
 The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
 [https://www.kaggle.com/datasets/arjunbhasin2013/ccdata]
