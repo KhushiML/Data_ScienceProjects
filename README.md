@@ -54,7 +54,8 @@ Here, I will be using the famous MNIST fashion dataset, which contains 70,000 cl
 [https://www.kaggle.com/datasets/zalando-research/fashionmnist]
 
 # Project 7: Language Detection with Machine Learning
-(https://github.com/KhushiML/Data_ScienceProjects/blob/main/Language%20Detection%20Model.ipynb)
+(https://github.com/KhushiML/Data_ScienceProjects/blob/main/Language%20Detection%20Model.ipynb) or
+(https://github.com/KhushiML/Data_ScienceProjects/blob/main/Language%20Identification%20Model%20Using%20Bernoulli%20Naive%20Bayes.ipynb)
 ## Description :
 - Language detection is a natural language processing task where we need to identify the language of a text or document.
 - Used **Multinomial Naïve Bayes** (Accuracy = 95.31%) algorithm.
