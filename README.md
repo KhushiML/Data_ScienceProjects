@@ -186,7 +186,7 @@ I had the client data such as : age of the client, their job type, their marital
 - Used **SARIMAX** model for Time Series Analysis.
 
 # Project 24 : Disease Prediction Using SVM Classifier
-
+(https://github.com/KhushiML/Data_ScienceProjects/blob/main/Disease%20Prediction%20Using%20SVM%20Classifier.ipynb)
 ## Description:
 - To implement SVM Classifier that can efficiently predict the disease of a human based on the symptoms that he/she possesses.
   
