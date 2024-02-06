@@ -185,3 +185,8 @@ I had the client data such as : age of the client, their job type, their marital
 - To predict the pattern or forecast the price of the coin in the upcoming days.
 - Used **SARIMAX** model for Time Series Analysis.
 
+# Project 24 : Disease Prediction Using SVM Classifier
+
+## Description:
+- To implement SVM Classifier that can efficiently predict the disease of a human based on the symptoms that he/she possesses.
+  
