@@ -201,4 +201,9 @@ I had the client data such as : age of the client, their job type, their marital
 ## Description:
 - To predict whether the patient has 10-year risk of future coronary heart disease (CHD).
 - Implemented Logistic Regression **(Accuracy = 84.84%)**.
- 
+  
+ # Project 27: Voice Assistant using python
+ (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Voice%20Assistant%20using%20Python.py)
+ ## Description:
+ - Used the **speech_recognition and pyttsx3** libraries for speech recognition and text-to-speech synthesis.
+
