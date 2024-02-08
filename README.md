@@ -189,4 +189,10 @@ I had the client data such as : age of the client, their job type, their marital
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Disease%20Prediction%20Using%20SVM%20Classifier.ipynb)
 ## Description:
 - To implement SVM Classifier that can efficiently predict the disease of a human based on the symptoms that he/she possesses.
-  
+
+# Project 25 : Parkinson Disease Prediction using XGBoost Classifier
+(https://github.com/KhushiML/Data_ScienceProjects/blob/main/Parkinson%20Disease%20Prediction%20using%20XGBoost%20Classifier.ipynb)
+## Description:
+- To predict whether a person suffers from Parkinson’s disease or not.
+- Implemented XGBoost Classifier **(Accuracy = 94.87%)**.
+ 
