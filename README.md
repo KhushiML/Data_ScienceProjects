@@ -197,8 +197,8 @@ I had the client data such as : age of the client, their job type, their marital
 - Implemented XGBoost Classifier **(Accuracy = 94.87%)**.
 
 # Project 26 : Heart Disease Prediction Using Logistic Regression
-()
+(https://github.com/KhushiML/Data_ScienceProjects/blob/main/Heart%20Disease%20Prediction%20Using%20Logistic%20Regression.ipynb)
 ## Description:
 - To predict whether the patient has 10-year risk of future coronary heart disease (CHD).
-- Implemented Logistic Regression **(Accuracy = 84.84%)**
+- Implemented Logistic Regression **(Accuracy = 84.84%)**.
  
