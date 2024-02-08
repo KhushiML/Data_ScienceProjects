@@ -195,4 +195,10 @@ I had the client data such as : age of the client, their job type, their marital
 ## Description:
 - To predict whether a person suffers from Parkinson’s disease or not.
 - Implemented XGBoost Classifier **(Accuracy = 94.87%)**.
+
+# Project 26 : Heart Disease Prediction Using Logistic Regression
+()
+## Description:
+- To predict whether the patient has 10-year risk of future coronary heart disease (CHD).
+- Implemented Logistic Regression **(Accuracy = 84.84%)**
  
