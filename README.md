@@ -176,7 +176,7 @@ I had the client data such as : age of the client, their job type, their marital
 # Project 22 : IPL Score Prediction Using Deep Learning
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/IPL%20Score%20Prediction%20Using%20Machine%20Learning.ipynb)
 ## Description:
-- Built a sequential neural network **(Accuracy = 58.76%)**.
+- Built a **sequential neural network** (Accuracy = 58.76%).
 
 # Project 23 : Dogecoin Price Prediction with SARIMAX
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Dogecoin%20Price%20Prediction%20with%20SARIMAX.ipynb)
@@ -188,19 +188,19 @@ I had the client data such as : age of the client, their job type, their marital
 # Project 24 : Disease Prediction Using SVM Classifier
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Disease%20Prediction%20Using%20SVM%20Classifier.ipynb)
 ## Description:
-- To implement SVM Classifier that can efficiently predict the disease of a human based on the symptoms that he/she possesses.
+- To implement **SVM Classifier** that can efficiently predict the disease of a human based on the symptoms that he/she possesses.
 
 # Project 25 : Parkinson Disease Prediction using XGBoost Classifier
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Parkinson%20Disease%20Prediction%20using%20XGBoost%20Classifier.ipynb)
 ## Description:
 - To predict whether a person suffers from Parkinson’s disease or not.
-- Implemented XGBoost Classifier **(Accuracy = 94.87%)**.
+- Implemented **XGBoost Classifier** (Accuracy = 94.87%).
 
 # Project 26 : Heart Disease Prediction Using Logistic Regression
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Heart%20Disease%20Prediction%20Using%20Logistic%20Regression.ipynb)
 ## Description:
 - To predict whether the patient has 10-year risk of future coronary heart disease (CHD).
-- Implemented Logistic Regression **(Accuracy = 84.84%)**.
+- Implemented **Logistic Regression** (Accuracy = 84.84%).
   
  # Project 27: Voice Assistant using python
  (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Voice%20Assistant%20using%20Python.py)
