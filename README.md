@@ -210,7 +210,7 @@ I had the client data such as : age of the client, their job type, their marital
 # Project 28: Dashboard for Global Terrorism Dataset using Power BI, Internship, The Sparks Foundation
 (https://drive.google.com/file/d/1ZEZ693xARc2ZpkdLABaEddCbsjYkhjeY/view)
 ## Description:
-- Created Dashboard using Power BI.
+- Created Dashboard using Power BI for displaying success rate by type of attack, weapons, target, region, group, country.
 
 # Project 29: Dashboard for Superstore Sales using Power BI, Internship, The Sparks Foundation
 (https://drive.google.com/file/d/12QViKwY1_vFWehs-O27B3jIE8_J1baF0/view)
