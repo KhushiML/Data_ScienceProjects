@@ -213,5 +213,12 @@ I had the client data such as : age of the client, their job type, their marital
 - Created Dashboard using Power BI.
 
 # Project 29: Dashboard for Superstore Sales using Power BI, Internship, The Sparks Foundation
+(https://drive.google.com/file/d/12QViKwY1_vFWehs-O27B3jIE8_J1baF0/view)
+## Description:
+- Created Dashboard using Power BI for Providing a comprehensive snapshot of Superstore sales performance.
+- Breaks down sales by product categories, allowing for analysis of top-performing segments.
+
+# 
+
 
 
