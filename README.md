@@ -218,7 +218,9 @@ I had the client data such as : age of the client, their job type, their marital
 - Created Dashboard using Power BI for Providing a comprehensive snapshot of Superstore sales performance.
 - Breaks down sales by product categories, allowing for analysis of top-performing segments.
 
-# 
-
+# Project 30 : Prediction of optimum number of clusters using Elbow method and k-means clustering, nternship, The Sparks Foundation
+()
+## Description:
+- Predicted optimum number of clusters by plotting WCSS to different number of clusters.
 
 
