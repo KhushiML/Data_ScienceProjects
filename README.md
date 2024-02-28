@@ -207,10 +207,11 @@ I had the client data such as : age of the client, their job type, their marital
  ## Description:
  - Used the **speech_recognition and pyttsx3** libraries for speech recognition and text-to-speech synthesis.
 
-# Project 28: Dashboard for Superstore Sales using Power BI, Internship, The Sparks Foundation
+# Project 28: Dashboard for Global Terrorism Dataset using Power BI, Internship, The Sparks Foundation
 (https://drive.google.com/file/d/1ZEZ693xARc2ZpkdLABaEddCbsjYkhjeY/view)
 ## Description:
 - Created Dashboard using Power BI.
 
+# Project 29: Dashboard for Superstore Sales using Power BI, Internship, The Sparks Foundation
 
 
