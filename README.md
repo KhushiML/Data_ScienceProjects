@@ -223,7 +223,7 @@ I had the client data such as : age of the client, their job type, their marital
 ### Description:
 - Predicted optimum number of clusters by plotting WCSS to different number of clusters.
 
-## Project 31 : Prediction of optimum number of clusters using Elbow method and k-means clustering, Internship, The Sparks Foundation
+## Project 31 :  Enhanced Dialogue Summarization and Toxicity Reduction Using FLAN-T5 and Reinforcement Learning, DeepLearning.AI
 ### Description:
 - Developed and fine-tuned a FLAN-T5 large language model using various techniques including zero-shot, one-shot, and few-shot inference for dialogue summarization without 
   prompt engineering.
