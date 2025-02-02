@@ -1,3 +1,38 @@
+## Project: Face Recognition System 
+Sample Scripts:
+
+
+### Description:
+- Implemented a face detection and recognition system using OpenAI, OpenCV’s Haar Cascade and VGG16, achieving 90% accuracy on Azure Cloud.
+- Optimized the approach by Developing vector databases with ViT-B/16+240 for image data and NER models for named entity extraction from text_content.
+  
+## Project: Speech-to-Text Model Fine-Tuning
+Sample Scripts:
+
+
+### Description:
+Sample Scripts:
+- Fine-tuned and deployed Whisper Large-v3 for 15 languages and Wav2Vec2-large-xlsr-53 for Hindi and English using PEFT and LoRA techniques.
+- Achieved competitive transcription accuracy with a Word Error Rate (WER) of 18% for Hindi and 5.4% for English across multiple languages.
+
+## Project: LLM Deployment on Azure
+Sample Scripts:
+### Description:
+- Deployed the LLaMa 3.1 8B Instruct model locally using FastAPI for efficient API management.
+
+## Project: Fraud Detection Model for SMEs
+Sample Scripts:
+### Description:
+- Built regression models using Random Forest, LightGBM, and XGBoost, achieving up to 96% accuracy.
+- Conducted exploratory data analysis (EDA) that improved model performance by 15%.
+- Optimized ML models using Hypertuning, improving accuracy by 12%.
+
+## Project:Prompting 
+Sample Scripts:
+### Description:
+-Used ChatGPT 4.0 for multi-modal prompting to extract information from image and text sources.
+-Used Google Gemini for prompting to find patterns in times series data with an accuracy rate of 70%.
+
 
 ## Project:  Enhanced Dialogue Summarization and Toxicity Reduction Using FLAN-T5 and Reinforcement Learning, DeepLearning.AI
 (https://github.com/KhushiML/Data_ScienceProjects/blob/main/Lab_1_summarize_dialogue.ipynb)
